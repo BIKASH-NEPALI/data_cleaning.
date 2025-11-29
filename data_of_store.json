@@ -1,0 +1,6 @@
+{
+  "name": "Alice",
+  "age": 25,
+  "is_student": false,
+  "hobbies": ["reading", "gaming", "music"]
+}
