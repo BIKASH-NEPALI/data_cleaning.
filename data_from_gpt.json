@@ -1,0 +1,42 @@
+[
+  {
+    "id": "001",
+    "name": "Alice ",
+    "age": "25",
+    "email": "alice@example.com ",
+    "city": "New York",
+    "is_student": "yes",
+    "scores": [85, "90", 88],
+    "registered": "2024-13-01"  
+  },
+  {
+    "id": 2,
+    "name": " Bob",
+    "age": 30,
+    "email": "bob_at_example.com",
+    "city": null,
+    "is_student": false,
+    "scores": ["78", "eighty", 82],
+    "registered": "2024-05-20"
+  },
+  {
+    "id": "003",
+    "name": "charlie",
+    "age": "",
+    "email": " charlie@example.com",
+    "city": "Los angles",
+    "is_student": "no",
+    "scores": [],
+    "registered": "20-04-2024"
+  },
+  {
+    "id": "004",
+    "name": "Diana",
+    "age": 28,
+    "email": "diana@example.com",
+    "city": "Kathmandu",
+    "is_student": "TRUE",
+    "scores": [92, 89, null],
+    "registered": ""
+  }
+]
